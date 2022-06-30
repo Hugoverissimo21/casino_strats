@@ -1,0 +1,23 @@
+Bet name,Winning spaces,Payout
+0,0,35 to 1
+00,00,35 to 1
+Straight up,Any single number,35 to 1
+Row,"0, 00",17 to 1
+Split,any two adjoining numbers vertical or horizontal,17 to 1
+Street,"any three numbers horizontal (1, 2, 3 or 4, 5, 6, etc.)",11 to 1
+Corner,"any four adjoining numbers in a block (1, 2, 4, 5 or 17, 18, 20, 21, etc.)",8 to 1
+Top line or Basket (US),"0, 00, 1, 2, 3",6 to 1
+Top line or Basket (European),"0, 1, 2, 3",8 to 1
+Double Street,"any six numbers from two horizontal rows (1, 2, 3, 4, 5, 6 or 28, 29, 30, 31, 32, 33 etc.)",5 to 1
+1st column,"1, 4, 7, 10, 13, 16, 19, 22, 25, 28, 31, 34",2 to 1
+2nd column,"2, 5, 8, 11, 14, 17, 20, 23, 26, 29, 32, 35",2 to 1
+3rd column,"3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36",2 to 1
+1st dozen,1 through 12,2 to 1
+2nd dozen,13 through 24,2 to 1
+3rd dozen,25 through 36,2 to 1
+Odd,"1, 3, 5, ..., 35",1 to 1
+Even,"2, 4, 6, ..., 36",1 to 1
+Red,"32, 19, 21, 25, 34, 27, 36, 30, 23, 5, 16, 1, 14, 9, 18, 7, 12, 3",1 to 1
+Black,"15, 4, 2, 17, 6, 13, 11, 8, 10, 24, 33, 20, 31, 22, 29, 28, 35, 26",1 to 1
+1 to 18,"1, 2, 3, ..., 18",1 to 1
+19 to 36,"19, 20, 21, ..., 36",1 to 1
